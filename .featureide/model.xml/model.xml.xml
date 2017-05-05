@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-	<layout chosenLayoutAlgorithm="1" horizontalLayout="true">
-		<struct/>
+	<layout chosenLayoutAlgorithm="0" horizontalLayout="true">
+		<struct>
+			<feature X="568" Y="40" name="Lawnmower"/>
+			<feature X="791" Y="189" name="iOS"/>
+			<feature X="829" Y="294" name="GYRO"/>
+			<feature X="960" Y="293" name="PROX"/>
+			<feature X="1114" Y="327" name="BR"/>
+			<feature X="845" Y="143" name="RD-IOT"/>
+			<feature X="400" Y="90" name="Blade Rotation"/>
+			<feature X="236" Y="140" name="480 RPMs"/>
+			<feature X="370" Y="140" name="Clockwise"/>
+			<feature X="542" Y="140" name="MD"/>
+			<feature X="795" Y="142" name="OS"/>
+			<feature X="303" Y="140" name="720 RPMs"/>
+			<feature X="1038" Y="204" name="ASW"/>
+			<feature X="771" Y="293" name="LIGHT"/>
+			<feature X="169" Y="140" name="360 RPMs"/>
+			<feature X="1158" Y="327" name="ER"/>
+			<feature X="1057" Y="354" name="&gt;2Task"/>
+			<feature X="736" Y="190" name="Android"/>
+			<feature X="1031" Y="292" name="AP"/>
+			<feature X="435" Y="140" name="AntiClockwise"/>
+			<feature X="541" Y="206" name="Manual Gear"/>
+			<feature X="693" Y="139" name="RD"/>
+			<feature X="830" Y="191" name="Web"/>
+			<feature X="1137" Y="205" name="RG"/>
+			<feature X="549" Y="89" name="Vehicle Operation"/>
+			<feature X="893" Y="295" name="ACCEL"/>
+			<feature X="641" Y="205" name="Automatic Gear"/>
+			<feature X="228" Y="90" name="Speed Control"/>
+			<feature X="622" Y="139" name="MTD"/>
+			<feature X="840" Y="90" name="I-O-T Module"/>
+			<feature X="908" Y="156" name="Sensor"/>
+			<feature X="1070" Y="291" name="TS"/>
+			<feature X="983" Y="354" name="2Task"/>
+		</struct>
 		<constraints/>
 	</layout>
